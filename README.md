@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi there! 👋
 
-🔭 I’m currently working on Building web applications using Django and React.
+🔭 I’m currently working on Building web applications using Django and React.                                          ![Coding GIF]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif))
+
 Enhancing my blog website created with Django, HTML, CSS, and SQLite.
 Expanding my portfolio website using React.
 

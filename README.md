@@ -1,30 +1,22 @@
 # 💫 About Me:
 Hi there! 👋
 
-I’m currently working on
-
-Building web applications using Django and React.
+🔭 I’m currently working on Building web applications using Django and React.
 Enhancing my blog website created with Django, HTML, CSS, and SQLite.
 Expanding my portfolio website using React.
-👯 I’m looking to collaborate on
 
-Open-source projects related to web development and frontend/backend integration.
+👯 I’m looking to collaborate on Open-source projects related to web development and frontend/backend integration.
 Freelancing projects to gain professional experience.
-🤝 I’m looking for help with
 
-Improving my problem-solving skills for coding competitions.
+🤝 I’m looking for help with Improving my problem-solving skills for coding competitions.
 Transitioning from beginner to professional in freelancing.
-🌱 I’m currently learning
 
-Advanced React concepts and modern web development practices.
+🌱 I’m currently learning Advanced React concepts and modern web development practices.
 Design and deployment strategies for personal projects.
-💬 Ask me about
 
-Creating responsive and visually appealing websites.
+💬 Ask me about Creating responsive and visually appealing websites.
 My experience in the Walmart Global Tech Virtual Program.
 Starting out as a developer post-graduation.
-⚡ Fun fact
-I recently quit smoking and am now focusing on improving my lung health while building a better lifestyle, including hitting the gym regularly. 💪
 
 
 

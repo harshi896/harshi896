@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 # 💫 About Me:
 Hi there! 👋
 
 I’m currently working on
